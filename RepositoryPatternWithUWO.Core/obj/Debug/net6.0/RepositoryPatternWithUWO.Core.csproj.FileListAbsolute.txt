@@ -1,0 +1,12 @@
+/Users/apple/Projects/RepositoryPatternWithUWO/RepositoryPatternWithUWO.Core/bin/Debug/net6.0/RepositoryPatternWithUWO.Core.deps.json
+/Users/apple/Projects/RepositoryPatternWithUWO/RepositoryPatternWithUWO.Core/bin/Debug/net6.0/RepositoryPatternWithUWO.Core.dll
+/Users/apple/Projects/RepositoryPatternWithUWO/RepositoryPatternWithUWO.Core/bin/Debug/net6.0/RepositoryPatternWithUWO.Core.pdb
+/Users/apple/Projects/RepositoryPatternWithUWO/RepositoryPatternWithUWO.Core/obj/Debug/net6.0/RepositoryPatternWithUWO.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Projects/RepositoryPatternWithUWO/RepositoryPatternWithUWO.Core/obj/Debug/net6.0/RepositoryPatternWithUWO.Core.AssemblyInfoInputs.cache
+/Users/apple/Projects/RepositoryPatternWithUWO/RepositoryPatternWithUWO.Core/obj/Debug/net6.0/RepositoryPatternWithUWO.Core.AssemblyInfo.cs
+/Users/apple/Projects/RepositoryPatternWithUWO/RepositoryPatternWithUWO.Core/obj/Debug/net6.0/RepositoryPatternWithUWO.Core.csproj.CoreCompileInputs.cache
+/Users/apple/Projects/RepositoryPatternWithUWO/RepositoryPatternWithUWO.Core/obj/Debug/net6.0/RepositoryPatternWithUWO.Core.dll
+/Users/apple/Projects/RepositoryPatternWithUWO/RepositoryPatternWithUWO.Core/obj/Debug/net6.0/refint/RepositoryPatternWithUWO.Core.dll
+/Users/apple/Projects/RepositoryPatternWithUWO/RepositoryPatternWithUWO.Core/obj/Debug/net6.0/RepositoryPatternWithUWO.Core.pdb
+/Users/apple/Projects/RepositoryPatternWithUWO/RepositoryPatternWithUWO.Core/obj/Debug/net6.0/ref/RepositoryPatternWithUWO.Core.dll
+/Users/apple/Projects/RepositoryPatternWithUWO/RepositoryPatternWithUWO.Core/obj/Debug/net6.0/RepositoryPatternWithUWO.Core.csproj.AssemblyReference.cache

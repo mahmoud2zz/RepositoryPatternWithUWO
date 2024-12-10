@@ -1,0 +1,17 @@
+/Users/apple/Projects/RepositoryPatternWithUWO/RepositoryPatternWithUWO.EF/bin/Debug/net6.0/RepositoryPatternWithUWO.EF.deps.json
+/Users/apple/Projects/RepositoryPatternWithUWO/RepositoryPatternWithUWO.EF/bin/Debug/net6.0/RepositoryPatternWithUWO.EF.runtimeconfig.json
+/Users/apple/Projects/RepositoryPatternWithUWO/RepositoryPatternWithUWO.EF/bin/Debug/net6.0/RepositoryPatternWithUWO.EF.dll
+/Users/apple/Projects/RepositoryPatternWithUWO/RepositoryPatternWithUWO.EF/bin/Debug/net6.0/RepositoryPatternWithUWO.EF.pdb
+/Users/apple/Projects/RepositoryPatternWithUWO/RepositoryPatternWithUWO.EF/obj/Debug/net6.0/RepositoryPatternWithUWO.EF.csproj.AssemblyReference.cache
+/Users/apple/Projects/RepositoryPatternWithUWO/RepositoryPatternWithUWO.EF/obj/Debug/net6.0/RepositoryPatternWithUWO.EF.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Projects/RepositoryPatternWithUWO/RepositoryPatternWithUWO.EF/obj/Debug/net6.0/RepositoryPatternWithUWO.EF.AssemblyInfoInputs.cache
+/Users/apple/Projects/RepositoryPatternWithUWO/RepositoryPatternWithUWO.EF/obj/Debug/net6.0/RepositoryPatternWithUWO.EF.AssemblyInfo.cs
+/Users/apple/Projects/RepositoryPatternWithUWO/RepositoryPatternWithUWO.EF/obj/Debug/net6.0/RepositoryPatternWithUWO.EF.csproj.CoreCompileInputs.cache
+/Users/apple/Projects/RepositoryPatternWithUWO/RepositoryPatternWithUWO.EF/obj/Debug/net6.0/RepositoryPatternWithUWO.EF.dll
+/Users/apple/Projects/RepositoryPatternWithUWO/RepositoryPatternWithUWO.EF/obj/Debug/net6.0/refint/RepositoryPatternWithUWO.EF.dll
+/Users/apple/Projects/RepositoryPatternWithUWO/RepositoryPatternWithUWO.EF/obj/Debug/net6.0/RepositoryPatternWithUWO.EF.pdb
+/Users/apple/Projects/RepositoryPatternWithUWO/RepositoryPatternWithUWO.EF/obj/Debug/net6.0/RepositoryPatternWithUWO.EF.genruntimeconfig.cache
+/Users/apple/Projects/RepositoryPatternWithUWO/RepositoryPatternWithUWO.EF/obj/Debug/net6.0/ref/RepositoryPatternWithUWO.EF.dll
+/Users/apple/Projects/RepositoryPatternWithUWO/RepositoryPatternWithUWO.EF/bin/Debug/net6.0/RepositoryPatternWithUWO.Core.dll
+/Users/apple/Projects/RepositoryPatternWithUWO/RepositoryPatternWithUWO.EF/bin/Debug/net6.0/RepositoryPatternWithUWO.Core.pdb
+/Users/apple/Projects/RepositoryPatternWithUWO/RepositoryPatternWithUWO.EF/obj/Debug/net6.0/RepositoryPatternWithUWO.EF.csproj.CopyComplete

@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{E33A815A-3359-461B-961E-2E8695A5D1DB}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RepositoryPatternWithUWO.Core/Interfaces/IBaseRepository.cs">
+    <Files>
+      <File FileName="RepositoryPatternWithUWO.EF/UintOfWork.cs" />
+      <File FileName="RepositoryPatternWithUWO.EF/Employe.cs" />
+      <File FileName="RepositoryPatternWithUWO.EF/Repositores/BaseRepository.cs" />
+      <File FileName="RepositoryPatternWithUWO.EF/ApplicationDbContext.cs" />
+      <File FileName="RepositoryPatternWithUWO.Api/Properties/launchSettings.json" />
+      <File FileName="RepositoryPatternWithUWO.Api/appsettings.json" />
+      <File FileName="RepositoryPatternWithUWO.Api/Program.cs" />
+      <File FileName="RepositoryPatternWithUWO.Core/Interfaces/IBaseRepository.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RepositoryPatternWithUWO" expanded="True">
+            <Node name="RepositoryPatternWithUWO.Api" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+            <Node name="RepositoryPatternWithUWO.Core" expanded="True">
+              <Node name="Consts" expanded="True" />
+              <Node name="Interfaces" expanded="True">
+                <Node name="IBaseRepository.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+            </Node>
+            <Node name="RepositoryPatternWithUWO.EF" expanded="True">
+              <Node name="Migrations" expanded="True" />
+              <Node name="Repositores" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.RepositoryPatternWithUWO.Api PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
